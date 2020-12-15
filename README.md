@@ -1,5 +1,6 @@
 # Understanding Public Attitudes Toward COVID-19 with Twitter
 
+Project website: https://jl3fp.gitbook.io/twitter_covid19/
 
 This is a capstone project for Master of Science in Data Science (MSDS) at [Univeristy of Virginia School of Data Science (UVA SDS)](https://datascience.virginia.edu/).
 The following t-SNE visualizations for word embeddings are created with the [TensorBoard Embedding Projector](http://projector.tensorflow.org/).
